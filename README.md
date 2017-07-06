@@ -1,6 +1,16 @@
 # Emoji Rating Scales
 
+## 1-5
 
+# ☹️🙁😐🙂😊
+
+## Animals
+
+# 😿😾😼😺😻
+
+## 3 games
+
+# 💋Kiss 💒Marry 🚫Avoid 
 
 # License
 
