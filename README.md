@@ -2,7 +2,8 @@
 
 ## 1-5
 
-<span style="font-size:200%;">☹️🙁😐🙂😊</span>
+☹️🙁😐🙂😊
+😦🙁😐🙂😊
 
 ## Animals
 
@@ -10,7 +11,8 @@
 
 ## 3 games
 
-💋💒🚫  - kiss, marry, avoid
+💋💒🚫 - Kiss, Marry, Avoid
+🍔🤝🥊 - Food, Friend, Fight
 
 # License
 
