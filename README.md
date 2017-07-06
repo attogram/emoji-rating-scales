@@ -2,15 +2,15 @@
 
 ## 1-5
 
-# ☹️🙁😐🙂😊
+<span style="font-size:200%;">☹️🙁😐🙂😊</span>
 
 ## Animals
 
-# 😿😾😼😺😻
+😿😾😼😺😻
 
 ## 3 games
 
-# 💋Kiss 💒Marry 🚫Avoid 
+💋💒🚫  - kiss, marry, avoid
 
 # License
 
